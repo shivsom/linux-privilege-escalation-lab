@@ -1,4 +1,4 @@
-````markdown
+
 # Linux Privilege Escalation Lab
 
 ## Overview
@@ -185,10 +185,4 @@ Recommended defensive measures:
 
 This lab is intended for educational and defensive security research purposes only.
 
-```
-
----
-
-
-You’ve crossed the hard part. Now don’t sabotage it by overthinking.
 ```
