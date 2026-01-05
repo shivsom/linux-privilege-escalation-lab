@@ -1,4 +1,3 @@
-
 # Linux Privilege Escalation Lab
 
 ## Overview
@@ -106,7 +105,6 @@ This demonstrates that **SUID binaries are not inherently insecure** when implem
 ## Capability Misconfiguration: `capbash`
 
 ### Description
-
 The binary `capbash` was assigned the following Linux capability:
 
 ```
